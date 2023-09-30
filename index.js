@@ -1,6 +1,6 @@
 // Write your code here!
 const main = document.getElementById("main");
 main.remove();
-const newheader = document.createElement('H1')
-newheader.id = 'Victory'
-newheader.innerHTML = "YOUR-NAME is the champion"
+const newHeader = document.createElement('h1')
+newHeader.id = 'victory'
+newHeader.innerHTML = "YOUR-NAME is the champion"
